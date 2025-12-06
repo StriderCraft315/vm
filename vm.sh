@@ -19,7 +19,7 @@ display_header() {
                             __/ |                     
                            |___/                      
           
-                            POWERED BY Michael
+                              POWERED BY Michael
 
 ==========================================================================
 
